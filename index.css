@@ -47,3 +47,10 @@ ul{
 .cc{
   width: 400px;
 }
+.video{
+  background-color: #222;
+  padding: 20px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: yellowgreen 5px solid;
+}
