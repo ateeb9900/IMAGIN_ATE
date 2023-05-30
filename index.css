@@ -40,3 +40,10 @@ color: #f9f9f9;
 text-align: center ;
 font-size: 50px;
 }
+ul{
+  display: inline-block;
+  width: 100px;
+}
+.cc{
+  width: 400px;
+}
