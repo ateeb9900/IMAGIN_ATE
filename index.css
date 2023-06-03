@@ -13,8 +13,10 @@ header {
       border-bottom: yellowgreen;
       border-style: solid;
       border-width: 5px;
+      font-size: 20px;
 }
-header {
+.header {
+  color: white;
     background-color: #222;
     padding: 20px;
     font-size: 20px;
@@ -33,6 +35,8 @@ border: yellowgreen 5px solid;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
+  border: 5px solid yellowgreen;
+  
 }
 #ateeb2{
 background-color: #222;
@@ -45,11 +49,18 @@ ul{
   width: 100px;
 }
 .cc{
-  width: 400px;
+  width:500px;
+  display: inline-block;
+  margin-left: auto;
+  
+  
 }
 .green{
   color: white;
  background-color: #222;
 border: 2px solid yellowgreen;
 display: inline-block ;
+}
+.link {
+ text-decoration: none;
 }
