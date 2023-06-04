@@ -49,7 +49,7 @@ ul{
   width: 100px;
 }
 .cc{
-  width:500px;
+  width:450px;
   display: inline-block;
   margin-left: auto;
   
@@ -63,4 +63,9 @@ display: inline-block ;
 }
 .link {
  text-decoration: none;
+}
+.anchor{
+  background-color: #222;
+  border: 2px solid yellowgreen;
+  color: aquamarine;
 }
